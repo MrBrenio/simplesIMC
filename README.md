@@ -11,4 +11,4 @@
 
 
 
-![linkedin](https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-128.png)(https://www.linkedin.com/in/brenio/) 
+[![linkedin](https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-128.png)](https://www.linkedin.com/in/brenio/) 
