@@ -7,8 +7,10 @@
 ### Onde o cálculo se basea na seguinte operação:
 
 ### IMC = altura (peso * peso)
+<br>
 
-
-
+### License
+[MIT License](https://github.com/mrbrenio/simplesIMC/blob/main/LICENSE)
+<br>
 
 [![linkedin](https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-128.png)](https://www.linkedin.com/in/brenio/) 
