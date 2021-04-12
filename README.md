@@ -14,4 +14,6 @@
 [MIT License](https://github.com/mrbrenio/simplesIMC/blob/main/LICENSE) @ Brenio
 <br>
 
-[![linkedin](https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-128.png)](https://www.linkedin.com/in/brenio/) 
+[![linkedin](https://img.icons8.com/material/72/linkedin--v3.gif)](https://www.linkedin.com/in/brenio/) 
+
+https://img.icons8.com/material/72/linkedin--v3.gif
