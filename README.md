@@ -10,7 +10,7 @@ Onde o cálculo se basea na seguinte operação:
 IMC = altura (peso * peso)
 <br>
 
-### License
+#### License
 [MIT License](https://github.com/mrbrenio/simplesIMC/blob/main/LICENSE)
 <br>
 
