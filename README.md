@@ -3,11 +3,11 @@
 # Simples IMC 
 > 📊 Índice de Massa Corpórea
 
-### Um cálculo básico para colocar os conhecimentos de JavaScript em prática.
+Um cálculo básico para colocar os conhecimentos de JavaScript em prática.
 
-### Onde o cálculo se basea na seguinte operação:
+Onde o cálculo se basea na seguinte operação:
 
-### IMC = altura (peso * peso)
+IMC = altura (peso * peso)
 <br>
 
 ### License @ Brenio
