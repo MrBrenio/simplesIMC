@@ -15,5 +15,3 @@
 <br>
 
 [![linkedin](https://img.icons8.com/material/72/linkedin--v3.gif)](https://www.linkedin.com/in/brenio/) 
-
-https://img.icons8.com/material/72/linkedin--v3.gif
