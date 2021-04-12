@@ -7,7 +7,7 @@ Um cálculo básico para colocar os conhecimentos de JavaScript em prática.
 
 Onde o cálculo se basea na seguinte operação:
 
-IMC = altura (peso * peso)
+IMC = peso / (altura * altura)
 <br>
 
 [![linkedin](https://img.icons8.com/material/72/linkedin--v3.gif)](https://www.linkedin.com/in/brenio/) 
