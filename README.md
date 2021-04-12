@@ -3,6 +3,8 @@
 # Simples IMC 
 > 📊 Índice de Massa Corpórea
 
+[IMC](https://mrbrenio.github.io/simplesIMC/)
+
 ### Um cálculo básico para colocar os conhecimentos de JavaScript em prática.
 
 ### Onde o cálculo se basea na seguinte operação:
