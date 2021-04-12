@@ -1,4 +1,4 @@
-![license mit](https://img.shields.io/github/license/mrbrenio/simplesimc) [![imc](https://img.shields.io/badge/MrBrenio-IMC-yellow)](https://mrbrenio.github.io/simplesIMC/)
+[![license mit](https://img.shields.io/github/license/mrbrenio/simplesimc)](https://github.com/mrbrenio/simplesIMC/blob/main/LICENSE) [![imc](https://img.shields.io/badge/MrBrenio-IMC-yellow)](https://mrbrenio.github.io/simplesIMC/)
 
 # Simples IMC 
 > 📊 Índice de Massa Corpórea
