@@ -1,9 +1,7 @@
-![license mit](https://img.shields.io/github/license/mrbrenio/simplesimc) ![license imc](https://img.shields.io/badge/MrBrenio-IMC-yellow)
+![license mit](https://img.shields.io/github/license/mrbrenio/simplesimc) ![license imc][(https://img.shields.io/badge/MrBrenio-IMC-yellow)](https://mrbrenio.github.io/simplesIMC/)
 
 # Simples IMC 
 > 📊 Índice de Massa Corpórea
-
-[IMC](https://mrbrenio.github.io/simplesIMC/)
 
 ### Um cálculo básico para colocar os conhecimentos de JavaScript em prática.
 
