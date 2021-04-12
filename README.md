@@ -1,5 +1,5 @@
-<adr>https://img.shields.io/github/license/mrbrenio/simplesIMC?style=plastic
+[![license mit](https://img.shields.io/github/license/mrbrenio/simplesIMC?style=plastic)
 
-# teste
+# Simples IMC 
 
-## teste
+## Índice de Massa Corpórea
