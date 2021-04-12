@@ -9,5 +9,6 @@
 ### IMC = altura (peso * peso)
 
 
-[linkedin](https://www.linkedin.com/in/brenio/) 
-!(https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-128.png)
+
+
+!(https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-128.png)(https://www.linkedin.com/in/brenio/) 
