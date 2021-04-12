@@ -11,7 +11,8 @@
 <br>
 
 ### License
-[MIT License](https://github.com/mrbrenio/simplesIMC/blob/main/LICENSE) @ Brenio
+[MIT License](https://github.com/mrbrenio/simplesIMC/blob/main/LICENSE)
 <br>
 
+@Brenio
 [![linkedin](https://img.icons8.com/material/72/linkedin--v3.gif)](https://www.linkedin.com/in/brenio/) 
